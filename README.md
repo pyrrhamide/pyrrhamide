@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a postgraduate student in Quantified Social Sciences, who loves to try things out with R 💻:coffee: I'm currently learning my way around `blogdown`, watch this space ✨
+I am a graduate in Quantified Social Sciences, who loves to try things out with R 💻:coffee: I'm currently learning my way around `blogdown`, watch this space ✨
