@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a graduate in Quantified Social Sciences, who loves to try things out with R 💻:coffee: I'm currently learning my way around `blogdown`, watch this space ✨
+I'm a graduate in Quantified Social Sciences, now a data analyst at the French Justice Department, who loves to try things out with R 💻☕
+
+~~I'm currently learning my way around `blogdown`, watch this space ✨~~
+
+I'm vibing, this gets updated whenever I'm inspired or whenever fun events happen. Watch this space!✨
+
+🌻 my name is pronounced "Kantou" - for french speakers.
